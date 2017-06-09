@@ -15,6 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AlterarActivity"></activity>
+        <activity android:name=".ConsultaActivity"></activity>
+        <activity android:name=".InsereActivity"></activity>
+
     </application>
 
 </manifest>

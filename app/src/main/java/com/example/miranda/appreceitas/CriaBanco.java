@@ -32,7 +32,7 @@ public class CriaBanco extends SQLiteOpenHelper {
                 + RECEITAS + " text,"
                 + INGREDIENTES + " text,"
                 + MODO_DE_PREPARO + " text,"
-                + SERVE + " text"
+                + SERVE + " text,"
                 + TEMPO + " text"
                 +")";
         Log.i("banco",sql);
